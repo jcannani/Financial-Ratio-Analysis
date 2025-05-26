@@ -15,8 +15,10 @@ Interpretations:
    
    -Interpretation: A low and declining debt-to-equity ratio generally indicates conservative financing with more reliance on equity than debt. The small rise in 2023 may suggest a temporary increase in debt or reduction in equity.
 
-**Equity Ratio (Fininacial Strengh)**
+**Equity Ratio (Financial Strengh)**
 
    -Trend: Steady increase over the years.
    
    -Interpretation: The company has a gradual increase in its equity financing relative to its total assets, indicating stronger financial stability and lower reliance on external debt.
+
+![Year-to-Year Financial Ratios](https://github.com/user-attachments/assets/c02b629c-7191-488b-9797-d95b0ca8b95d)
