@@ -1,6 +1,8 @@
 # Financial-Ratio-Analysis
 This project analyzes year-to-year financial data (2020-2024) using Python to calculate key financial ratios such as Current Ratio, Debt-to Equity, and Equity Ratio. It includes data cleaning, ratio computation, and trend visualization using Matplotlib.
 
+![Year-to-Year Financial Ratios](https://github.com/user-attachments/assets/c02b629c-7191-488b-9797-d95b0ca8b95d)
+
 Interpretations: 
 
 **Current Ratio (Liquidity Indicator)**
@@ -20,5 +22,3 @@ Interpretations:
    -Trend: Steady increase over the years.
    
    -Interpretation: The company has a gradual increase in its equity financing relative to its total assets, indicating stronger financial stability and lower reliance on external debt.
-
-![Year-to-Year Financial Ratios](https://github.com/user-attachments/assets/c02b629c-7191-488b-9797-d95b0ca8b95d)
