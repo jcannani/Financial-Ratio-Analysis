@@ -3,7 +3,7 @@ This project analyzes year-to-year financial data (2020-2024) using Python to ca
 
 ![Year-to-Year Financial Ratios](https://github.com/user-attachments/assets/c02b629c-7191-488b-9797-d95b0ca8b95d)
 
-Interpretations: 
+**Interpretations: **
 
 **Current Ratio (Liquidity Indicator)**
 
